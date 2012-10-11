@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gml spec="1.0">
+    <tag>
+        <header>
+            <client>
+                <username>GML4U</username>
+                <keywords>GML4U,Processing</keywords>
+                <name>GML4U</name>
+                <filename>GML4U_679b0fe7-a517-440f-9283-b905e3099105.gml</filename>
+                <version>0.1.5</version>
+            </client>
+            <environment>
+                <screenBounds>
+                    <x>1024.0</x>
+                    <y>800.0</y>
+                    <z>0.0</z>
+                </screenBounds>
+                <up>
+                    <x>0.0</x>
+                    <y>-1.0</y>
+                    <z>0.0</z>
+                </up>
+                <screenScale>1024</screenScale>
+            </environment>
+        </header>
+        <drawing/>
+    </tag>
+</gml>
