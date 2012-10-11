@@ -32,6 +32,7 @@ public class ConsumerApplet extends PApplet {
       this.screenHeight = screenHeight; 
       messageConsumer = new Consumer(this, URI, topic, "random");
 
+
     }
     
     public void setup() {

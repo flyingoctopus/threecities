@@ -86,7 +86,8 @@ void setup() {
   //fs = new SoftFullScreen(this); 
   //fs.enter(); 
   
-  frame.setLocation(1920,0);
+
+  frame.setLocation(1680,0);
   
   // Remote Screen(s)
   if(NumScreens >= 2){
